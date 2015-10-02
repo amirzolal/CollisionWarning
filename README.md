@@ -1,0 +1,2 @@
+# CollisionWarning
+CollisionWarning Slicer module
